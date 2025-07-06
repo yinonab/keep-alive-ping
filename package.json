@@ -1,0 +1,8 @@
+{
+  "name": "supabase-keep-alive",
+  "version": "1.0.0",
+  "main": "keep-alive-ping.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
